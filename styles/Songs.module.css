@@ -1,0 +1,16 @@
+.songsContent {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1220px;
+  margin: 0 auto;
+}
+
+.songTarjet {
+  max-width: 300px;
+  padding: 20px;
+}
+
+.songInfo {
+  display: flex;
+  justify-content: space-between;
+}
